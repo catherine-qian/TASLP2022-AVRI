@@ -22,6 +22,7 @@ python hritrain.py -model [model name] -datapath [data path]
 
 ======================================================================================================
 The raw data will be released soon. 
-Due to personal privacy, the raw face images will not be released.
+
+(Due to personal privacy, the raw face images will not be released.)
 
 
