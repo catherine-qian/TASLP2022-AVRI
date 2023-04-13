@@ -1,6 +1,6 @@
 # TASLP2022-AVRI
 
-This is the official repository of the following paper. The code and data will be released soon.
+This is the official repository of the following paper. 
 
 @ARTICLE{9968308,
   author={Qian, Xinyuan and Wang, Zhengdong and Wang, Jiadong and Guan, Guohui and Li, Haizhou},
@@ -11,3 +11,5 @@ This is the official repository of the following paper. The code and data will b
   number={},
   pages={550-562},
   doi={10.1109/TASLP.2022.3226330}}
+  
+  The raw data will be released soon.
