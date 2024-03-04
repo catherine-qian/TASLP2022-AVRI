@@ -1,6 +1,7 @@
 # TASLP2022-AVRI
 
-This is the official repository of the following paper. 
+This repo is the official implementation of 'Audio-Visual Cross-Attention Network for Robotic Speaker Tracking', TASLP 2022.
+
 
 @ARTICLE{9968308,
   author={Qian, Xinyuan and Wang, Zhengdong and Wang, Jiadong and Guan, Guohui and Li, Haizhou},
