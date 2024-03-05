@@ -1,4 +1,5 @@
 # TASLP2022-AVRI
+audio-visual tracking method
 
 This repo is the official implementation of 'Audio-Visual Cross-Attention Network for Robotic Speaker Tracking', TASLP 2022.
 
